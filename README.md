@@ -9,4 +9,14 @@ This page will contain:
 * Projects!
 * contacts and links
 * Cours work / experience
-* Books reccomended
+
+
+spotify recommender..
+
+foursquare -> battle of the neighourhood
+
+https://www.youtube.com/watch?v=2BrpKpWwT2A&list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ&index=1
+
+tensorflow car game
+
+chatbot hållbarhetskollen
